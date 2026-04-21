@@ -6,29 +6,30 @@ Establish what was already done before this A/B test. What are some questions yo
 *Why do we want to do this? 
 *How does this align with the overall company goals, mission, and strategy?
 *What is the ideal format for a word/slide count, if any? Furthermore, what is the 'ideal format' we are looking for/predict? 
-*What are the assumptions for reading time? What the expectations for reading time? 
+*What are the assumptions for reading time? vs. What are the expectations for reading time? 
 *In what time frame was this data collected?
-*What are the backgrounds of the participants?(all studying the same subject, similar profession, etc.)
-*What specific domain or core topics are these slides covering, and are there technical terms or 'insider' language I need to define before I look at the data?
+*What are the backgrounds of the participants?(same area of study, similar profession, etc.)
+*What specific domain or core topics are the slides covering, and are there technical terms or 'insider' language I need to define before I look at the data?
 *Does the subject material of these slides align with historical benchmarks or industry trends we've seen in the past?
 *Did you purchase this data? How did you collect this data?
-*We discovered that viewing time increased with lower word count. It this an accurate represntation of what you notice in reality? 
+*We discovered that viewing time increased with lower word count. It this an accurate/ realistic representation of what you notice in practice? 
 
 
 
 
 ## Goal Alignment 
 Align with stakeholders on what success means before interpreting any numbers.
-*If at all, how does the subject material of these slides relate to our current stakeholders' exploratory goals?
-*How do you intend to use this data moving forward? How will is this ultimately be intended for use in daily practice by your org??
-*How does this study align with the overall business goals?
-*Which KPI's are actually important for you? Which KPI's are you responsible for? What does it look like when you achieve beyond your KPIs? 
+*If at all, how does the subject material of the viewed slides relate to our current stakeholders' exploratory goals?
+*How do you intend to use this data moving forward? How will is this ultimately be intended for use in daily practice by your organization?
+*How does this study align with overall business goals and performance measures?
+*Which KPI's are actually important for you? Which KPI's are you responsible for? 
+*Does our data show a true correlation between amount of words per slide and increased viewing times?
 
 ## Define Over-performance 
 Consider what it would mean if the treatment dramatically exceeded expectations.
-*How does our result compare to previous testing done at our site and with our competitors? 
+*What does it look like when you achieve beyond your KPIs? 
 
-*Does our data show a true correlation between viewing times and the amount of words per slides? 
+*How does our result compare to previous testing done at our site and with our competitors? 
 
 *Did our testing leave the data unchanged? 
 
